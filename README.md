@@ -19,7 +19,7 @@ A console-based task manager allowing users to add tasks, view tasks, mark tasks
 
 Clone the repository:
 
-> git clone https://github.com/yourusername/internship-cpp-tasks.git
+> git clone https://github.com/sohamrajput98/Codsoft.git
 
 Navigate into the project folder.
 
